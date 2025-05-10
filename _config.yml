@@ -1,18 +1,18 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Yeong Heun
+description: Computer Engineering Student
+site_title: Yeong Heun | Computer Engineering Student
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: yeongheun
+blog_url: https://velog.io/@0nee/posts
+email: iyoungheuni@gmail.com
+keybase_username: yeongheun
+twitter_username: yeongheun
+reddit_username: yeongheun
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
